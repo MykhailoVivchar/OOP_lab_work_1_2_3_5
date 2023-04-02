@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\проекти Microsoft Visual Studio 2019\ООП лаб5\ООП лаб5\open.h(46,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\проекти Microsoft Visual Studio 2019\ООП лаб5\ООП лаб5\open.h(45): message : во время компиляции функции-члена класс шаблон "void MasO<int>::Show(void)"
+C:\проекти Microsoft Visual Studio 2019\ООП лаб5\ООП лаб5\main.cpp(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "void MasO<int>::Show(void)"
+C:\проекти Microsoft Visual Studio 2019\ООП лаб5\ООП лаб5\main.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "MasO<int>"
+  ООП лаб5.vcxproj -> C:\проекти Microsoft Visual Studio 2019\ООП лаб5\Debug\ООП лаб5.exe
